@@ -2,7 +2,7 @@
 
 body {
   background-color: #8BC99F;
-  color: #ffffff;
+  color: #8bc99f;
   font-family: 'Raleway', sans-serif;
 }
 
@@ -16,7 +16,7 @@ body {
   background-color: #1A1A1A;
   border-radius: 20px;
   border-color: green;
-  color: #8bc99f;
+  color: #bdbdbd;
 }
 
 .navbar li {
@@ -24,7 +24,7 @@ body {
 }
 
 .nav-link {
-  color:#1eef7f;
+  color:#8bc99f;
   font-size: 20px;
 }
 
