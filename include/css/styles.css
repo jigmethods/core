@@ -84,3 +84,7 @@ body {
     display: block;
     width: 73%;
 }
+
+.py-5 {
+    padding-top: 9rem!important;
+}
