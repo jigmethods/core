@@ -15,9 +15,14 @@ body {
 .card {
   background-color: #1A1A1A;
   border-radius: 20px;
-  border-color: green;
+  border: 5px solid transparent;
   color: #bdbdbd;
 }
+
+.card:hover {
+  background-color: #1A1A1A;
+  border-radius: 25px;
+  border-color: #ffffff;
 
 .navbar li {
   list-style-type: none;
