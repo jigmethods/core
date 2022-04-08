@@ -88,3 +88,7 @@ body {
 .py-5 {
     padding-top: 12rem!important;
 }
+
+.purchase-card.text-center {
+    background-color: #1a1a1a;
+}
