@@ -171,3 +171,7 @@ h1 {
     transform:translateX(25%);
   }
 }
+
+.row{
+  padding-top:90
+}
