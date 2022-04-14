@@ -183,3 +183,44 @@ h1 {
 .rowcon{
   padding-top:0
 }
+
+footer {
+    padding-bottom: 120px;
+    padding-top: 130px;
+}
+
+.footer p {
+    color: #fff;
+}
+
+.footer-2{
+    padding-top: 17px;
+}
+
+.footer-2 ul li {
+    display: inline-block;
+    background: #242431;
+    width: 67px;
+    height: 67px;
+    cursor: pointer;
+    text-align: center;
+    line-height: 60px;
+    border: 3px solid transparent;
+    transition: all .3s;
+    border-radius: 50%;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    margin: 0px 8px;
+}
+
+.footer-2 ul li img {
+    width: 40px;
+  padding-top:10
+}
+
+.footer-2 ul li:hover {
+    background: transparent;
+    border-color: #242431;
+}
