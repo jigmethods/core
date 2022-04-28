@@ -35,8 +35,8 @@ body {
 }
 
 .nav-link:hover {
-  background-color: white;
-  color: #15151F;
+  background-color: #000000;
+  color: #FFFFFF;
 }
 
 .purchase-header{
